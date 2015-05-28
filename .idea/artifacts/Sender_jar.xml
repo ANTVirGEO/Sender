@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Sender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sender_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Sender.jar">
+        <element id="module-output" name="Sender" />
+      </element>
+      <element id="library" level="project" name="mail" />
+    </root>
+  </artifact>
+</component>
